@@ -1,4 +1,4 @@
-package Bootcamp_JavaDIO.metodos;
+package BootcampJavaDIO.metodos;
 
 public class Mensagem {
     public static void obterMensagem(int hora) {

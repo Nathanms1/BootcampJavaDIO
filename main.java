@@ -1,5 +1,5 @@
-package Bootcamp_JavaDIO;
+package BootcampJavaDIO;
 
-public class Main {
+public class main {
     
 }

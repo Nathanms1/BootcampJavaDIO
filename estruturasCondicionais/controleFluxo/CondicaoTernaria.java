@@ -1,7 +1,5 @@
 package BootcampJavaDIO.estruturasCondicionais.controleFluxo;
 
-import BootcampJavaDIO.sobrecargas.main;
-
 public class CondicaoTernaria {
     public static void main(String[] args) {
         int nota = 4;

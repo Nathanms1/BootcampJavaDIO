@@ -1,6 +1,6 @@
 package BootcampJavaDIO;
 
-public class desafio {
+public class desafioNumerosInteiros {
     public static void main(String[] args){
 
         // TODO: Crie um Array de números inteiros:

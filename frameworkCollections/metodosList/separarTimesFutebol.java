@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class timesFutebol {
+public class separarTimesFutebol {
     public static void main(String[] args) {
         List<Jogador> jogadores = new ArrayList<>(){{
         add(new Jogador("Nathan", "Goleiro", "Regular"));

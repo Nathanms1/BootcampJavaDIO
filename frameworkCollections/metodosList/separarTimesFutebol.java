@@ -19,11 +19,15 @@ public class separarTimesFutebol {
 
         }};
         
-        System.out.println(jogadores);
+        //System.out.println(jogadores);
         
         
         Collections.shuffle(jogadores);
-        System.out.println(jogadores);
+        for (Jogador jogadore : jogadores) System.out.println(jogadore);
+
+        for (double x = 0; x < jogadores.); x++) {
+            
+        }
     }
 }
 
@@ -52,7 +56,7 @@ class Jogador implements Comparable<Jogador>{
 
     @Override
     public String toString() {
-        return "Jogador [Nome= " + nome + ", Posição= " + posicao + ", Nível= " + qualidade + "]";
+        return "Nome: " + nome + " | Posição: " + posicao + " | Nível: " + qualidade;
     }
 
     @Override
